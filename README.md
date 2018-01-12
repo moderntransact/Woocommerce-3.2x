@@ -14,7 +14,7 @@ Modern Transact Payment Gateway Plugin for WooCommerce.
 
 ## How to install
 
-1. Download our latest release (zipped) from [here](https://github.com/payment-plugin/woocommerce-moderntransact/releases).
+1. Download our latest release (zipped) from [here](https://github.com/moderntransact/Woocommerce-3.2x/releases).
 1. Log in to your Wordpress Dashboard as an Admin User;
 1. Click on _Plugins_ menu on the sidebar;
 1. Click on _Add New_ button on the Plugins settings page, the click on _Upload Plugin_;
